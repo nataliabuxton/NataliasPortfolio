@@ -1,2 +1,0 @@
-# NataliasPortfolio
-CV/PortfolioPage
