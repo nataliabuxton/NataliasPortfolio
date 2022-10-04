@@ -22,9 +22,8 @@
 
 
 <!-- CONTACT -->
-## Contact
-
-Your Name - Natalia - (see CV for email! & contact!)
+- ME
+ Natalia - (see CV for email! & contact!)
 
 Project Link: [https://nataliabuxton.github.io/NataliasPortfolio/](https://nataliabuxton.github.io/NataliasPortfolio/)
 
