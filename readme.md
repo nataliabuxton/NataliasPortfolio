@@ -24,7 +24,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - Natalia - (see CV for email! & contact!)
 
 Project Link: [https://nataliabuxton.github.io/NataliasPortfolio/](https://nataliabuxton.github.io/NataliasPortfolio/)
 
